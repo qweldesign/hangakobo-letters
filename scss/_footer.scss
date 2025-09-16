@@ -3,7 +3,6 @@
  */
 
 .footer {
-  padding: space("x-large");
-  @include background($theme-accent);
+  padding-block: space("large");
   text-align: center;
 }

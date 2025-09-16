@@ -34,22 +34,22 @@
 // Components
 @import "icon";
 @import "backToTop";
+@import "breadcrumb";
 @import "button";
 @import "cover";
 @import "drawerMenu";
-@import "embed";
-@import "modal";
-@import "preloader";
-@import "responsiveColor";
-@import "revealOnScroll";
-@import "slider";
+//@import "embed";
+//@import "modal";
+//@import "preloader";
+//@import "responsiveColor";
+//@import "revealOnScroll";
+//@import "slider";
 
 // Projects
-@import "hero";
-@import "section";
-@import "postItem";
+@import "main";
 @import "postList";
-@import "form";
+@import "postItem";
+@import "featuredImage";
 
 // Utility
 //@import "utilities/flex";

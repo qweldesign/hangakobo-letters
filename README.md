@@ -1,19 +1,27 @@
-## QWEL STARTER TEMPLATE
+## 越前海岸からの版画ゆうびん | 版画ゆうびん舎
 
-[QWEL.DESIGN](https://qwel.design) のweb開発のためのスターターキット
+[版画ゆうびん舎](https://hangakobo.com) のためのwebサイトの一部。  
 
 ## ライセンス | License
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)  
+### コード部分 | Code
 
-このプロジェクトは [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) に基づき、改変・再配布の自由を保障しています。  
-This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) , ensuring freedom to use, modify, and redistribute.  
+Copyright (C) 2025 QWEL.DESIGN  
+All rights reserved.  
 
-よって、改変・再配布の際は、著作権表記（© QWEL.DESIGN）および https://qwel.design/ を明記し、ソースコードを開示してください。  
-Therefore, if you modify or redistribute this software, you must retain the copyright notice (© QWEL.DESIGN) and https://qwel.design/, and make the source code available.  
+This repository is published for viewing purposes only.  
+Modification, redistribution, or reuse of any part of this code is not permitted without explicit permission.  
 
-詳しくは LICENSE ファイルをご覧ください。  
-See the LICENSE file for details.  
+このリポジトリは閲覧目的のために公開されています。  
+コードの改変、再配布、再利用は、明示的な許可なしには認められていません。
+
+### 版画作品 | Artworks
+
+All copyright of the artworks belongs to Naoko Osano.  
+Secondary use or reproduction is not permitted without explicit permission.  
+
+版画作品の著作権は全て、おさのなおこに帰属します。  
+二次利用・転載は、明示的な許可なしには認められていません。  
 
 ---
 

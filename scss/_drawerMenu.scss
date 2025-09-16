@@ -151,7 +151,8 @@ $drawer-image-filter:        invert(1) grayscale(1) brightness(4) !default;
 
       img {
         width: auto;
-        height: $drawer-height;
+        height: 4.5rem;
+        filter: $drawer-image-filter;
       }
     }
 

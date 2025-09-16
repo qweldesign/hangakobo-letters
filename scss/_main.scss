@@ -1,0 +1,17 @@
+/**
+ * Project - Main
+ */
+
+.main {
+  @include container();
+
+  &__header {
+    padding-block: space("large");
+    border-bottom: 1px dotted theme-color("dark");
+    text-align: center;
+  }
+
+  &__title {
+    font-size: font-size("x-large");
+  }
+}

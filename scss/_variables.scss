@@ -1,2 +1,31 @@
 // Variables
 
+$colors: (
+  "primary": hsl(220, 100%, 30%)
+);
+
+$grid-base:            6rem;
+
+$breakpoints:        (
+  sm:                  600px,
+  md:                  800px,
+  lg:                  1000px
+);
+
+$container-widths:   (
+  sm:                  600px,
+  md:                  800px,
+  lg:                  1000px
+);
+
+$gutter:             $grid-base / 8;
+$container-pads:     (
+  sm:                  $gutter,
+  md:                  clamp(#{$gutter}, 2%, #{$grid-base / 6}), // 16px
+  lg:                  clamp(#{$gutter}, 2%, #{$grid-base / 4.8}) // 20px
+);
+
+$font-family-sans:     "Zen Kaku Gothic New", sans-serif;
+$font-weight-sans:     500;
+
+$drawer-always-shown:  true;
