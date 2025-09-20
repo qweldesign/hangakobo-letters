@@ -123,7 +123,7 @@ $artworks = array_reverse($artworks);
             <?php foreach ($posts2 as $post) { ?>
               <li class="postList__item postItem">
                 <figure class="postItem__image">
-                  <a href="/letters/<?php echo $post['slug']; ?>/">
+                  <a href="/info/<?php echo $post['slug']; ?>/">
                     <img loading="razy" src="<?php echo $post['img'] ?>">
                   </a>
                 </figure>
@@ -132,7 +132,7 @@ $artworks = array_reverse($artworks);
                     <div class=postItem__date><?php echo date('Y.m.d',strtotime($post['date'])); ?></div>
                   </div>
                   <h3 class="postItem__heading">
-                    <a href="/letters/<?php echo $post['slug']; ?>/">
+                    <a href="/info/<?php echo $post['slug']; ?>/">
                       <?php echo $post['title']; ?>
                     </a>
                   </h3>

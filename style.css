@@ -638,7 +638,7 @@ button, input, select, textarea {
   height: calc(83.33vmin / 0.5);
   overflow: hidden;
 }
-@media (min-width: 800px) {
+@media (min-width: 600px) {
   .slider {
     height: 36rem;
   }
